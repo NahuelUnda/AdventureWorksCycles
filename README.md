@@ -40,3 +40,6 @@ In this project, I focused on reversing the sales decline of **Adventure Works B
 ---
 
 Feel free to explore the code, dashboards, and documentation for further details!
+
+
+#📌 PS. Due to file size limitations, the interactive Power BI dashboard may not be visualized correctly. If you'd like to explore it, feel free to reach out! I'd be happy to share it with you!
