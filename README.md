@@ -4,6 +4,8 @@
 
 In this project, I focused on reversing the sales decline of **Adventure Works Bicycles**. Using **SQL Server** and **Power BI**, I managed and visualized large datasets from the **AdventureWorksDW2019** database and Excel files to generate effective solutions.
 
+---
+
 ## 🔍 Optimization Process:
 
 - **Relational Data Modeling**: Restored and connected key system tables to create a robust data model, ensuring data integrity and accuracy.
@@ -18,6 +20,8 @@ In this project, I focused on reversing the sales decline of **Adventure Works B
 
 
 - **Key Factor Detection**: Identified issues in the supply chain, shifts in consumer behavior, and the impact of competition to generate effective strategies.
+
+  ---
 
 ## 🎯 Achieved Results:
 
